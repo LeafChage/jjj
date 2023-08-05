@@ -1,0 +1,12 @@
+{
+  "program": [
+    {
+      "call": {
+        "fn": "print",
+        "args": [
+          "hello world"
+        ]
+      }
+    }
+  ]
+}
