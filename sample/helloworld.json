@@ -1,0 +1,10 @@
+{
+  "program": [
+    {
+      "call": [
+        "print",
+        [ "hello world" ]
+      ]
+    }
+  ]
+}

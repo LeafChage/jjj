@@ -1,0 +1,11 @@
+{
+    "program": [
+      {
+        "if": [
+          { "call": ["==", [1, 2]] },
+          { "call": ["print", ["true"]] },
+          { "call": ["print", ["false"]] }
+        ]
+      }
+    ]
+  }
